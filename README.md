@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cfy1010
-- 👀 I’m interested in essentially Front Techs
+- 👀 I’m interested in essentially Front Techs & UXUI Design
 - 🌱 I’m currently learning Tailwindcss
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
