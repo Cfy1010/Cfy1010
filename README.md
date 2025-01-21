@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cfy1010
-- 👀 I’m interested in essentially Front Techs, UXUI Design and Scrum 
-- 🌱 I’m currently learning Nextjs 14 and IA
+- 👀 I’m interested in essentially in Teaching, Scrum, Front Techs, UX/UI and AI 
+- 🌱 I’m currently learning Nextjs 15 and AI Marketing
 
 
 <!---
